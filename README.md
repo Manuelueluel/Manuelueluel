@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently studying Computer Science at the University of Trento :book:
+I'm currently studying Computer Science at the University of Trento :computer:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40"/>
