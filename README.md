@@ -17,8 +17,9 @@ I'm currently studying Computer Science at the University of Trento :computer:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
 </p>
 
+
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelueluel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelueluel&langs_count=5&theme=gruvbox)]()
 
 **Manuelueluel/Manuelueluel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
